@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...JavaScript,React,Next.js
 - 📫 How to reach me: ...ruhizannat71@gmail.com
 - 😄 Pronouns: ...she
-- ⚡ Fun fact: ...i'm inteligence guy :smiley:
+- ⚡ Fun fact: ...i'm inteligence guy:smiley:
 
